@@ -11,3 +11,5 @@ What is the main difference between template-based and content-based user interf
 Consider the following statement: 'This aspect of the design process focuses on the emotions and attitudes felt by a user when using a system.' Does this statement describe UI or UX?|This describes UX
 Which of the following is an example of the application of learned behavior in interface design?|Using a light bulb icon for 'ideas'
 Which of the following scenarios best represents the concept of context-specific design in user interface?|A weather app that changes its theme based on the current weather condition
+What is the importance of feedback in interface design?|It helps users know if their action was successful or not
+Which of the following can be considered as elements of context-specific design?|Designing for specific devices$Considering the location and environment of the user$Designing for specific user groups
