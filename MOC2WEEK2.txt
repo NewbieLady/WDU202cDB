@@ -1,14 +1,12 @@
-In the context of a lost pet app, which element would be crucial to include on a screen for posting information about the pet that's been lost?|A field for entering the pet's microchip number
 Which of the following best describes the purpose of a sitemap in the app development process?|To plan and visualize the content structure
 You're designing an app's login process. Which of the following screens is least likely to be involved in this process?|A search screen
-Which of the following steps are involved in creating a mood board for UX Design?|Grouping related visuals together$Collecting visual inspiration$Defining color palettes and typography
-What is the primary purpose of conducting visual research in UX Design?|To understand the audience's visual preferences and expectations
+In the context of a lost pet app, which element would be crucial to include on a screen for posting information about the pet that's been lost?|A field for entering the pet's microchip number
+How does visual design impact the user experience of an app?|It sets the mood and tone of the app
 Which of the following scenarios is most likely to benefit from a change in visual direction?|Users find the app's interface confusing
-Why is a user flowchart important in UX Design?|It provides a visual representation of the possible user interactions with the product
+Which of the following steps are involved in creating a mood board for UX Design?|Collecting visual inspiration$Grouping related visuals together$Defining color palettes and typography
 How are content maps and user flowcharts different?|Content maps focus on the organization of content, while user flowcharts focus on user interaction
+Why is a user flowchart important in UX Design?|It provides a visual representation of the possible user interactions with the product
 Which of the following are qualities of a well-crafted content map?|It is simple and easy to understand$It is flexible and can be adapted as the project evolves$It focuses on the user's perspective
 What is a key responsibility of the TESTER during paper prototype testing?|To simulate the computer's response
 Which of the following is the most significant benefit of testing a paper prototype with a user?|It helps identify potential problems early on
-What are some responsibilities of the USER during paper prototype testing?|Performing tasks as they would in a real-life scenario$Providing feedback on the system's functionality
-In a testing scenario, a user is having difficulty understanding how to navigate through the prototype. What should the tester do?|Make note of the user's difficulty for future improvement
-How does visual design impact the user experience of an app?|It sets the mood and tone of the app
+What are some responsibilities of the USER during paper prototype testing?|Providing feedback on the system's functionality$Performing tasks as they would in a real-life scenario
