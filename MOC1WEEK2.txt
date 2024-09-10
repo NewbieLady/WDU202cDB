@@ -1,14 +1,12 @@
+How are icons and symbols differentiated in their visual representations?|Symbols can represent complex concepts while icons are simple
 How does the use of shapes impact the overall look and feel of an interface?|Shapes create visual hierarchy
-Which of the following is the primary purpose of icons and symbols in user interfaces?|To act as visual cues that guide user interaction
 If you want to create a sense of urgency or importance in a user interface, which color would be most appropriate?|Red
-Considering the various elements of user interface design, which of the following statements are true?|Language can be used as a branding element in design$Color can be used to signify different states in an interface
+What is the advantage of using text in the user interface?|It provides faster and more accurate communication
+Considering the various elements of user interface design, which of the following statements are true?|Color can be used to signify different states in an interface$Language can be used as a branding element in design
+Which of the following is the primary purpose of icons and symbols in user interfaces?|To act as visual cues that guide user interaction
 How can language be used as a design tool in setting the mood and tone of an app?|By selecting words and phrases that reflect the intended user experience.
-What is the advantage of using text in the user interface?|It simplifies complex concepts
-How are icons and symbols differentiated in their visual representations?|Icons represent actions while symbols represent concepts
-How can typography be used as a branding element in the user interface?|By using a unique typeface that aligns with the brand's identity
-Which of the following best describes the role of visual design components in interface design?|All of the above
-When defining the goals, constraints, and audience for a UI design project, which of the following is the first step?|Identify the audience
-What is the primary purpose of a design brief in a UI/UX project?|To provide a summary of the project's goals, audience, and constraints
-Which of the following are important topics to consider in any UI/UX project? Select all that apply.|Age of the target audience$Audience for the interface$Content to be displayed$Context the interface will be used in
 Which of the following best describes the role of color in interface design?|Color is used to create mood and emotion
-Which of the following is a key component of visual design in user interface design?|The color palette used in the interface
+What is the primary purpose of a design brief in a UI/UX project?|To provide a summary of the project's goals, audience, and constraints
+Which of the following best describes the role of visual design components in interface design?|All of the above
+Which of the following are important topics to consider in any UI/UX project? Select all that apply. |Age of the target audience$Audience for the interface$Context the interface will be used in$Content to be displayed
+When defining the goals, constraints, and audience for a UI design project, which of the following is the first step?|Define the goals
