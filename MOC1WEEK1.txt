@@ -1,15 +1,19 @@
-Identify the role responsible for creating the visual elements of a digital product.|UI designer
-Which of the following statements is true about the difference between UI and UX?|UI refers to the visual elements, while UX is about the overall experience.
+Consider the following statement: 'This aspect of the design process focuses on the emotions and attitudes felt by a user when using a system.' Does this statement describe UI or UX?|This describes UX
 Which of these is a core component of a user interface?|Visual elements
-Check all the following principles that are key to achieving consistency in interface design.|Use of a consistent color scheme$Uniform placement of buttons and controls$Consistent use of typography
-Choose the factors that contribute to a seamless interaction in digital interfaces.|Consistency$Real-world knowledge
+Identify the role responsible for creating the visual elements of a digital product.|UI designer
 Which of the following best describes the role of real-world knowledge in interface design?|It helps users understand and interact with the interface more quickly
+What is the importance of feedback in interface design?|It helps users know if their action was successful or not
+Which of the following is an example of the application of learned behavior in interface design?|Using red color for error messages
 Consider a UI design for a mobile app. How would the impact of screen size potentially affect user interaction?|Smaller screen size might require simpler design and more careful placement of elements
+Which of the following can be considered as elements of context-specific design?|Designing for specific devices$Considering the location and environment of the user$Designing for specific user groups
 Why is it important to balance aesthetics and functionality in user interface design?|Because it creates an overall successful user experience
 How does context-specific design impact digital experiences?|It tailors the design to the user's needs and environment
-What is the main difference between template-based and content-based user interface design?|Template-based design uses pre-made layouts
-Consider the following statement: 'This aspect of the design process focuses on the emotions and attitudes felt by a user when using a system.' Does this statement describe UI or UX?|This describes UX
-Which of the following is an example of the application of learned behavior in interface design?|Using a light bulb icon for 'ideas'
+Which of the following statements is true about the difference between UI and UX?|UI refers to the visual elements, while UX is about the overall experience.
+Check all the following principles that are key to achieving consistency in interface design.|Use of a consistent color scheme$Consistent use of typography$Uniform placement of buttons and controls
+Choose the factors that contribute to a seamless interaction in digital interfaces.|Consistency$Real-world knowledge
 Which of the following scenarios best represents the concept of context-specific design in user interface?|A weather app that changes its theme based on the current weather condition
-What is the importance of feedback in interface design?|It helps users know if their action was successful or not
-Which of the following can be considered as elements of context-specific design?|Designing for specific devices$Considering the location and environment of the user$Designing for specific user groups
+What is the main difference between template-based and content-based user interface design?|Template-based design is more flexible
+Choose the factors that contribute to a seamless interaction in digital interfaces.|Real-world knowledge$Consistency
+Check all the following principles that are key to achieving consistency in interface design.|Use of a consistent color scheme$Uniform placement of buttons and controls$Consistent use of typography
+What is the main difference between template-based and content-based user interface design?|Template-based design uses pre-made layouts
+Which of the following can be considered as elements of context-specific design?|Designing for specific user groups$Designing for specific devices$Considering the location and environment of the user
