@@ -1,17 +1,19 @@
 What is the main role of a designer in shaping a user's interactive experience?|Understanding user needs and translating them into functional design
-What does introducing function to form in user interface design mean?|Ensuring that every design element has a purpose
 Why is logic and predictability important in interface design?|To ensure the user can easily understand and use the interface
-What could be a disadvantage of a highly graphical and entertaining interface?|It may distract from the content
-Imagine you are designing a user interface. How would you apply the principle of composition and structure?|By arranging elements in a logical and predictable way
-What could be an advantage of a slimmed-down, functional interface over a more graphic, entertaining interface?|It reduces the chances of user distraction
-Why is maintaining consistency in user interface design important?|It helps users predict how elements in the interface will behave
-Which of the following scenarios can be considered as an effective balance between functionality and aesthetics in UI design?|A utility app with minimalistic design but all necessary features
+What does introducing function to form in user interface design mean?|Ensuring that every design element has a purpose
 Consider user interface (UI) design. What are some aspects that contribute to an effective balance between functionality and aesthetics in the design of interfaces?|Ensuring a clear and direct navigation$Using consistent design patterns$Maintaining a simple and clean design
-Why is it important to use design conventions and principles in interface design?|They ensure that the interface is user-friendly
-What does the term 'multi-state button' in user interface design refer to?|A button that changes its state based on user interaction
-What are the different states that a button can have in user interface design?|Enabled, Disabled, Hover, Clicked
 What is the purpose of pattern libraries in UI design?|To provide a set of ready-to-use design elements
-What is a key principle for designing effective buttons?|They should have a consistent design and provide visual feedback
-Which of the following best describes the transition of static interface elements to interactive ones in user interface design?|Conversion of graphical elements into clickable buttons
-What is the basic functionality of a user interface?|To provide a way for users to interact with the system
+Which of the following scenarios can be considered as an effective balance between functionality and aesthetics in UI design?|A utility app with minimalistic design but all necessary features
 Consider a user interface. What would be an indicator that it effectively balances functionality and aesthetics?|The interface has both visual appeal and allows users to perform tasks efficiently
+What could be an advantage of a slimmed-down, functional interface over a more graphic, entertaining interface?|It reduces the chances of user distraction
+What could be a disadvantage of a highly graphical and entertaining interface?|It may distract from the content
+Why is it important to use design conventions and principles in interface design?|They ensure that the interface is user-friendly
+What is a key principle for designing effective buttons?|They should have a consistent design and provide visual feedback
+What are the different states that a button can have in user interface design?|Normal, Hover, Pressed, Inactive
+What is the basic functionality of a user interface?|To provide a way for users to interact with the system
+Which of the following best describes the transition of static interface elements to interactive ones in user interface design?|Conversion of graphical elements into clickable buttons
+Why is maintaining consistency in user interface design important?|It helps users predict how elements in the interface will behave
+Imagine you are designing a user interface. How would you apply the principle of composition and structure?|By arranging elements in a logical and predictable way
+Consider user interface (UI) design. What are some aspects that contribute to an effective balance between functionality and aesthetics in the design of interfaces?|Using consistent design patterns$Ensuring a clear and direct navigation$Maintaining a simple and clean design
+What does the term 'multi-state button' in user interface design refer to?|A button that changes its state based on user interaction
+What are the different states that a button can have in user interface design?|Normal, Hover, Pressed, Inactive
