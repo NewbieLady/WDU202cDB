@@ -1,18 +1,18 @@
-Which factor is not important when prioritizing the functionality of an app?|Color scheme of the app
+What would be a poor way to start generating ideas for an new, innovative app?|Copying an existing app
 What is the first step in generating initial ideas for an app?|Identifying the target audience
-When generating initial ideas for an app, which of the following should you consider?|Feasibility of implementation$Potential revenue streams$User needs
-Imagine you are branding a new app for online learning. Which of the following branding strategies would be most effective?|Using a name related to the functionality of the app
+When generating initial ideas for an app, which of the following should you consider?|User needs$Feasibility of implementation$Potential revenue streams
 Why is it important to consider app store optimization when naming your app?|It boosts the app's visibility in app store search results
 Which of the following is a critical aspect when naming an app?|Selecting a name that's simple, descriptive, and unique
-Why should you prioritize certain features over others when planning your app?|Because prioritizing helps focus on the features that are most valuable to your users.
-In the context of UX design, how does creating user personas help in the planning stage of an app?|It helps to understand the needs, behaviors, and goals of your users.
+Imagine you are branding a new app for online learning. Which of the following branding strategies would be most effective?|Using a name related to the functionality of the app
 Why is it important to consider the user journey in the planning stage of an app?|It gives insights into the step-by-step experience users will have with your app.
-Which of the following best describes the importance of analyzing different user profiles and their motivations for using an app?|To understand users' needs and improve the app's value for users
-Which of the following actions are beneficial when seeking user feedback on an app idea?|Creating prototypes$Conducting user interviews
-Why is it crucial to understand the audience and rationale for an app?|To align the app's features with user needs and motivations
-When generating initial ideas for an app, which of the following should you consider?|User needs$Feasibility of implementation$Potential revenue streams
-What would be a poor way to start generating ideas for an new, innovative app?|Copying an existing app
-What is the primary reason why branding is important in UX design?|It sets the app apart from its competitors
-Why is it important to consider the platforms your app will be available on during the planning phase?|It can impact the cost of development
-What would be a poor way to start generating ideas for an new, innovative app?|Copying an existing app
 Which of these is the most important to determine during the initial planning phase of an app?|The target audience
+Why is it important to consider the platforms your app will be available on during the planning phase?|All of these
+Which of the following actions are beneficial when seeking user feedback on an app idea?|Conducting user interviews$Creating prototypes
+Which of the following best describes the importance of analyzing different user profiles and their motivations for using an app?|To understand users' needs and improve the app's value for users
+Which of the following are potential goals that can be pursued in app development?|Improving user satisfaction$Increasing user engagement$Enhancing the company's reputation
+Which factor is not important when prioritizing the functionality of an app?|Color scheme of the app
+What is the primary reason why branding is important in UX design?|It sets the app apart from its competitors
+In the context of UX design, how does creating user personas help in the planning stage of an app?|It helps to understand the technical requirements of the app.
+Why should you prioritize certain features over others when planning your app?|Because prioritizing helps focus on the features that are most valuable to your users.
+Why is it crucial to understand the audience and rationale for an app?|To align the app's features with user needs and motivations
+Which of the following are potential goals that can be pursued in app development?|Improving user satisfaction$Increasing user engagement$Enhancing the company's reputation
