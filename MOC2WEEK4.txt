@@ -1,15 +1,12 @@
-Why is interactivity important for a digital prototype?|It helps simulate the real user experience
-What does the term 'iterative' refer to in the context of prototyping in UX design?|Repeating a single step until it is perfect
-When evaluating prototyping software, which of the following should NOT be a key consideration?|The frequency of bug fixes to the software
-When developing a digital prototype, which of the following are true about creating pathways within the prototype?|Creating pathways provide a more realistic user experience$Pathways allow users to navigate through different screens
-Why is it important to test a digital prototype with users?|To get feedback on the user experience
-Which methods can be used to create a finished working simulation of a digital prototype?|Creating a physical mockup$Interactive versions
-What factors should you consider when determining the number of screens needed for a digital prototype?|The number of different functions the app has$The complexity of the app
-If you wanted to simulate a window popping up over the background in Figma, what technique would you use?|Using overlays
-As a UX designer, you're designing a new mobile app. Which of the following would be the most effective way to ensure the app's usability?|Test the app with a small group of users and iterate based on their feedback
-Which of the following best describes the concept of 'usability' in UX design?|The ease of use and learnability of a product
-In the context of UX Design, which of the following best describes the concept of 'Affordance'?|The visual cues that inform users about how an object can be used
-Select all the elements that are considered part of user experience (UX) design.|Visual design$User research
 What is the significance of simulating the platform, interface, and interaction when creating a realistic digital prototype?|It provides a realistic experience for user testing
 When evaluating prototyping software, which of the following should NOT be a key consideration?|The frequency of bug fixes to the software
+Why is interactivity important for a digital prototype?|It helps simulate the real user experience
+What factors should you consider when determining the number of screens needed for a digital prototype?|The number of different functions the app has$The complexity of the app$The target audience of the app
+If you wanted to simulate a window popping up over the background in Figma, what technique would you use?|Using overlays
 When creating a digital prototype, what is the purpose of designing fake fields for data entry?|To simulate the user's interaction with the application
+Which methods can be used to create a finished working simulation of a digital prototype?|Screen recording$Interactive versions$Video playthroughs
+When developing a digital prototype, which of the following are true about creating pathways within the prototype?|Creating pathways provide a more realistic user experience$Pathways allow users to navigate through different screens
+In the context of UX Design, which of the following best describes the concept of 'Affordance'?|The visual cues that inform users about how an object can be used
+Select all the elements that are considered part of user experience (UX) design.|User research$Visual design
+Which of the following best describes the concept of 'usability' in UX design?|The ease of use and learnability of a product
+As a UX designer, you're designing a new mobile app. Which of the following would be the most effective way to ensure the app's usability?|Test the app with a small group of users and iterate based on their feedback
