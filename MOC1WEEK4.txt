@@ -1,13 +1,15 @@
-You are designing a user interface for a mobile app. Which of the following is the most effective way to build visual relationships within a single screen?|Use consistent colors, typography, and visual elements to create harmony
 Consider a user interface with poorly integrated components. What is a likely result of this situation?|Users may have difficulty understanding how to interact with the interface
-Why is it important to create a grid for a website when designing a user interface?|To ensure consistency and visual appeal in design decisions
-What does the term 'hierarchy' refer to in the context of user interface design?|The order of importance of different elements on a screen
-What is a convention in user interface design?|A widespread rule or style followed by designers
+You are designing a user interface for a mobile app. Which of the following is the most effective way to build visual relationships within a single screen?|Use consistent colors, typography, and visual elements to create harmony
 Why is it important to consider factors such as orientation, scale, and viewing distance when designing for different screens?|To ensure the design is accessible and usable on all devices
 When comparing the ease of navigation between web-based and app versions of a digital product, what is a key difference to consider?|Apps usually have more features than their web counterparts
-In user interface design, what does the concept of hierarchy primarily help with?|Prioritizing content and guiding user's attention
-What are the principles to follow when creating a grid for a website?|Ensure consistency
-Which of the following factors are important to consider when designing for different screens?|Scale$Orientation$Viewing distance
-Why is transitioning from static designs to prototypes an important process in user interface design?|To check the feasibility of the design
-If you were to improve the navigation of a user interface, which of the following would be the most effective strategy?|Designing a logical and intuitive menu structure
 What is the primary reason for variations in content between web-based and app versions of a digital product?|Device capabilities and screen size
+In user interface design, what does the concept of hierarchy primarily help with?|Prioritizing content and guiding user's attention
+When designing a user interface, why is it important to align user needs and client goals?|To ensure the design meets its intended purpose
+Why is it important to create a grid for a website when designing a user interface?|To ensure consistency and visual appeal in design decisions
+Which of the following factors are important to consider when designing for different screens?|Scale$Orientation$Viewing distance
+Which of the following factors are important to consider when designing user interfaces for different screen sizes and formats?|Scale$Orientation$Font for buttons
+If you were to improve the navigation of a user interface, which of the following would be the most effective strategy?|Designing a logical and intuitive menu structure
+Why is transitioning from static designs to prototypes an important process in user interface design?|To check the feasibility of the design
+What does the term 'hierarchy' refer to in the context of user interface design?|The order of importance of different elements on a screen
+What are the principles to follow when creating a grid for a website?|Make sure it is visually appealing$Ensure consistency
+What is a convention in user interface design?|A widespread rule or style followed by designers

@@ -1,12 +1,16 @@
-What are some methods to ensure continuity and consistency across different screens?|Using consistent fonts and colors$Using consistent navigation$Maintaining a consistent layout
-When refining user interface design, which factor is least likely to be a primary consideration?|Color trends in the fashion industry
+When creating wireframes, which of the following steps would you likely take first?|Sketch the basic structure of the interface
+What are some methods to ensure continuity and consistency across different screens?|Using consistent navigation$Using consistent fonts and colors$Maintaining a consistent layout
 What is the purpose of using a limited color palette in wireframes?|To focus on the structure and functionality, not the visual design
-Which of the following are important considerations when making UI and UX decisions while building wireframes?|How the user will navigate through the app$The type of device the app will be used on$The distribution of elements on the screen
 Which of the following would be the best choice to visually represent the interface structure in a wireframe?|Using geometric shapes and lines
-Which of the following is the most important reason for conducting user testing with wireframe designs?|To validate the functionality and usability of the design
+Why is user testing important in the development of wireframes?|To confirm the wireframe's structure and functionality work as intended
 If you find inconsistencies in your wireframe screens, what is the best first step to take?|Identify the cause of the inconsistencies
-Which of the following is NOT one of Jakob Nielsen's 10 Rules of User Interface Design?|Cognitive overload prevention
+Which of the following is the most important reason for conducting user testing with wireframe designs?|To validate the functionality and usability of the design
 If a system has 'user control and freedom', what feature would it most likely have?|An undo and redo option
-Which of the following align with the Nielsen's principle of 'aesthetic and minimalist design'?|Removing irrelevant information$Providing only essential functionality$Using consistent and recognizable icons
+Which of the following align with the Nielsen's principle of 'aesthetic and minimalist design'?|Using consistent and recognizable icons$Providing only essential functionality$Removing irrelevant information
 Consider the rule 'recognition rather than recall'. In terms of form design, what does this imply?|The form should use familiar terms and icons
+Which of the following is NOT one of Jakob Nielsen's 10 Rules of User Interface Design?|Cognitive overload prevention
 Why are wireframes important in the design process?|All of these
+Which of the following are important considerations when making UI and UX decisions while building wireframes?|How the user will navigate through the app$The type of device the app will be used on$The distribution of elements on the screen
+What is the main purpose of creating a wireframe map?|To provide a visual representation of the site's structure
+Consider the rule 'recognition rather than recall'.  In terms of form design, what does this imply?|The form should use familiar terms and icons
+When refining user interface design, which factor is least likely to be a primary consideration?|Color trends in the fashion industry
