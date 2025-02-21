@@ -1,0 +1,10 @@
+On a scale from 1 to 5, how important is it to address both user and client needs in website development?|5
+Which of the following are important when identifying client needs in website redesign?|Business goals$Brand identity$User roles$Technical constraints
+Which of the following best represents the purpose of creating user personas in web design?|To understand the key demographics and behaviors of the target audience.
+Which of the following elements should be considered when setting up a strategy for creating a website?|Competitor analysis$Target audience$Site navigation structure
+Select the practical, cost-effective methods for conducting user research.|Online surveys$Observing user behavior through website analytics$Using social media analytics
+Why is understanding client needs crucial in web design?|It helps in creating a design that aligns with the client's business goals.
+What is a practical and cost-effective method for conducting user research?|Using online surveys
+Which of the following methods are user research methods?|Creating questionnaires$Interviewing users$Observing users
+Which of the following methods is used to understand user and client needs for a successful web design project?|Conducting user interviews
+Which of the following is a method of user segmentation in website design?|Roles

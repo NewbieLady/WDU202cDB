@@ -1,0 +1,10 @@
+Which of the following statements best describes a low-fidelity wireframe?|A basic visual representation of a webpage or app, focusing on layout and functionality rather than design details
+Select all elements that are commonly part of a website's navigational system.|Search bar$Breadcrumbs$Dropdown menu
+What do you call the process of creating low-fidelity sketches to represent the basic layout and structure of a web page? Please answer in all lowercase.|wireframing
+Which of the following are common elements found in web design patterns?|Footers$Headers$Sidebars
+Identify the key considerations when designing wireframes for a complex, responsive website.|Wayfinding$Navigation systems
+Which of the following are important considerations when evaluating navigation systems for user experience?|Intuitive labeling and terminology$Quick access to important sections$Consistency across all pages
+What is the term used to describe the ability of a web page to adapt its layout and content to different screen sizes and orientations? Please answer in all lowercase.|responsiveness
+Which of the following tools are specifically made for creating wireframes? ?|Figma
+Which header navigation system is often preferred for large websites with many sections?|Mega menu
+Which of the following strategies is most effective for enhancing user engagement on a website's homepage?|Using clear and concise headlines

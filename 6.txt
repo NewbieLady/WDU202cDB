@@ -1,0 +1,9 @@
+Which of the following elements should be considered when adapting designs for mobile screens?|Mobile navigation accessed via a menu button
+Identify the fundamental concepts of visual design for the web.|Whitespace$Typography
+Which of the following can be used as sources of inspiration for creating a moodboard?|Social media$Magazines$Nature
+What is the primary benefit of using a grid system in web design?|It ensures a consistent and rational layout.
+Which of the following best practices is important for improving the readability of body text on a website?|Using 16px as the minimum size for body text
+Which of the following is a benefit of using the proper type size for body text in web design?|Enhanced readability
+Which software is highlighted in the lesson for creating visual mockups?|Figma
+What is the primary purpose of a visual mock-up in the user experience process?|To gather user feedback on the visual design
+What is the primary impact of proper spacing in web design?|Enhances visual communication and readability

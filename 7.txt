@@ -1,0 +1,5 @@
+What language is used to add interactivity to a web page? Please answer in all lowercase.|javascript
+What is the primary purpose of CSS in web development? Please answer in all lowercase.|styling
+Select all elements that should be checked for consistency when refining a mockup.|Color schemes$Typography$Iconography
+Name a programming language integral to web development that enables dynamic content. Please answer in all lowercase.|javascript
+Which web technology is essential for structuring content on the web? Please answer in all lowercase.|html

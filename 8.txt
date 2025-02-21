@@ -1,0 +1,8 @@
+Which of the following is an example of a 'dark pattern' in web design?|A website that makes it difficult to cancel a subscription.
+Which of the following elements is most crucial for ensuring the visual appeal of a mockup?|Color scheme
+Which tool is most suitable for creating clickable prototypes from static markups?|Figma
+Select the stages that are part of the web design process.|User Research$Content Creation$Wireframing
+What is the term for a basic visual guide that suggests the structure of an interface? Please answer in all lowercase.|wireframe
+What is the primary tool used in this course for constructing clickable prototypes? Please answer in all lowercase.|figma
+Which of the following is an example of a dark pattern in user interfaces?|Adding hidden costs during checkout
+Identify common accessibility considerations in web design.|Enough contrast between text and background$Use of semantic HTML tags$Ensuring keyboard navigability

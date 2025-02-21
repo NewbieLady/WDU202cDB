@@ -1,0 +1,10 @@
+Which of the following characteristics can apply to both websites and mobile applications? Select all that apply.|Require internet connection$Can be used for e-commerce$Can have interactive user interfaces
+Which of the following are typically considered functionality requirements in web design?|Search.$User authentication and login$E-commerce features like shopping cart, product filters, payment gateways, and order tracking.
+Which of the following is the first step in formulating a plan for creating a website?|Define the website's purpose and goals
+Which of the following factors is most crucial when assessing the potential viability of a new website idea?|Target audience analysis
+Which of the following elements are essential components of a website strategy?|Implementing SEO techniques$Conducting competitor analysis$Defining target audience$Setting website goals
+What is a one-word term that describes the five phases of UX design? Please answer in all lowercase.|design
+Which of the following is a benefit of following a predefined process for each web design project?|Improved collaboration among team members
+What is the term used to describe the sequential approach in user experience design? Please answer in all lowercase.|waterfall
+Select the advantages of using websites for user experience over apps.|Websites are accessible on multiple platforms without needing separate development for each.$Websites generally require less storage space on the user's device.$Websites do not need to be updated as frequently as apps.
+When analyzing competitor restaurant websites, which of the following is a key consideration for identifying potential design elements to incorporate into your own site?|User experience and navigation flow

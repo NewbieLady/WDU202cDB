@@ -1,0 +1,8 @@
+When breaking down an e-commerce website into sitemap components, which of the following would be considered a primary component?|Product Categories
+Select all the appropriate labels for a website's main navigation that would help users locate the company's product offerings.|Shop$Products
+Which of the following are important steps in creating an information flow diagram (sitemap) for a website?|Identify the main sections of the website$Define the relationship between pages
+Select the key elements that should be considered when creating a sitemap for a website.|Primary navigation structure$Hierarchy of pages
+Which of the following activities are key components of information architecture?|Organizing content$Categorizing information$Labeling information
+What is another term used to describe the main navigation in a site map? Please answer in all lowercase.|menu
+Which of the following are key activities involved in information architecture?|Organizing information$Categorizing information$Labeling information
+What is the relevance of information architecture during the sitemap phase?|It aids in transforming content requirements into a navigable structure.

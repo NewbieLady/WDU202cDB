@@ -1,0 +1,6 @@
+Which of the following best describes the scope of a website focused on e-commerce?|Selling products online and providing customer service
+Which of the following are considered functionality requirements in web design?|User login system$Search feature$Interactive forms
+When transforming user needs into content requirements, which of the following is the most important first step?|Study the findings of the Strategy phase
+Which of the following best differentiates between content and functionality on websites?|Content refers to the information presented; functionality refers to the interactive features.
+Which of the following are important content and functionality requirements for an affordable poke restaurant's website?|Online ordering system$High-quality images of food$Customer testimonials
+Which of the following are functionality requirements for the Calarts project archive?|Filtering by project type$Advanced search options$User authentication
