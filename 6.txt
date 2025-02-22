@@ -16,3 +16,4 @@ Which of the following elements can be used to create visual hierarchy in web de
 Which of the following elements are important to consider during the visual mock-up phase?|Color scheme$Typography$Layout
 Select the fundamental concepts of visual design for the web from the options below.|Composition$Typography
 Which of the following are valid reasons for creating a moodboard in a design project?|To explore different design styles$To gather visual inspiration$To communicate the visual style to stakeholders
+What is the main benefit of using a grid system in web design?|It ensures a consistent and rational layout.

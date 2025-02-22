@@ -8,7 +8,7 @@ What is a practical and cost-effective method for conducting user research?|Usin
 Which of the following methods are user research methods?|Creating questionnaires$Interviewing users$Observing users
 Which of the following methods is used to understand user and client needs for a successful web design project?|Conducting user interviews
 Which of the following is a method of user segmentation in website design?|Roles
-What term describes fictional characters created to represent different user types in a design process? Please answer in all lowercase.|persona Correct Correct! Personas are fictional characters created to represent different user types in a design process.
+What term describes fictional characters created to represent different user types in a design process? Please answer in all lowercase.|persona
 Which method of user segmentation focuses on the interests, attitudes, and values of the users?|Psychographics
 Which elements are typically included in a user persona?|User pain points$User goals$User preferences$User demographics
 What is the first step in setting up a strategy for creating a website?|Define the website's purpose and goals

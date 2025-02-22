@@ -18,3 +18,9 @@ What is the first phase of the UX process? Please answer in all lowercase.|strat
 Select the key differences between the waterfall and agile approaches in user experience design.|Agile requires complete documentation before development begins$Waterfall is linear and sequential
 What is one key difference between websites and apps in terms of accessibility?|Websites generally offer better cross-platform accessibility than apps.
 What is the primary focus of user experience (UX) design?|Ensuring the product is built using the latest technology
+Which of the following steps is most crucial when formulating a plan for creating a website?|Defining the target audience
+Select the key components that should be analyzed to evaluate the viability of a new website idea.|Target audience demographics$Revenue model$Technical features
+What is the significance of understanding human anatomy, psychology, and behavior in the user experience design process?|It helps in creating user-centric designs that cater to user needs and preferences.
+Select the phases that are part of the UX process.|Wireframing$Testing$Research
+Which of the following best describes a Minimum Viable Product (MVP)?|A product with the minimum set of features needed to gather user feedback
+Which of the following best describes the concept of Minimum Viable Product (MVP)?|A product with just enough features to satisfy early customers and provide feedback for future development
