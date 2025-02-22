@@ -7,3 +7,12 @@ Which of the following is a benefit of using the proper type size for body text 
 Which software is highlighted in the lesson for creating visual mockups?|Figma
 What is the primary purpose of a visual mock-up in the user experience process?|To gather user feedback on the visual design
 What is the primary impact of proper spacing in web design?|Enhances visual communication and readability
+Which of the following elements should be considered when adapting designs for mobile screens?|Mobile navigation accessed via a menu button
+Which of the following elements can be used to create visual hierarchy in web design?|Grid
+Why is creating a moodboard important for a design project?|It helps to visualize the project's aesthetic and style.
+What is the primary benefit of using a grid system in web design?|It ensures a consistent and rational layout.
+Which of the following are ethical and legal considerations when using web fonts?|Ensuring that the font license allows for web use
+Which of the following elements can be used to create visual hierarchy in web design?|Scale, weight, direction, form, texture, space, value, and color
+Which of the following elements are important to consider during the visual mock-up phase?|Color scheme$Typography$Layout
+Select the fundamental concepts of visual design for the web from the options below.|Composition$Typography
+Which of the following are valid reasons for creating a moodboard in a design project?|To explore different design styles$To gather visual inspiration$To communicate the visual style to stakeholders

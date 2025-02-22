@@ -4,3 +4,9 @@ When transforming user needs into content requirements, which of the following i
 Which of the following best differentiates between content and functionality on websites?|Content refers to the information presented; functionality refers to the interactive features.
 Which of the following are important content and functionality requirements for an affordable poke restaurant's website?|Online ordering system$High-quality images of food$Customer testimonials
 Which of the following are functionality requirements for the Calarts project archive?|Filtering by project type$Advanced search options$User authentication
+Select all elements that could define the primary scope of a website for a small dentist office.|Displaying patient testimonials and reviews$Providing information about dental services and treatments$Allowing patients to book appointments online
+What is the primary focus of content requirements in web design?|Identifying the information that needs to be presented on the website
+Select the activities that are essential for transforming client needs into functionality requirements.|Facilitating stakeholder interviews$Creating user personas$Conducting competitive analysis
+What are some of the possible content and functionality requirements for a website designed to meet user and client needs?|User-generated content like reviews or testimonials$About Us and Contact Us text content$High-quality content
+What is a key visual design element that can help meet client needs for an upscale Italian food catering service?|High-quality images of food
+Which of the following best describes the importance of defining specific requirements early on in a web design project?|It helps ensure that the project meets the needs of both clients and users.

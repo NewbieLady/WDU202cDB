@@ -6,3 +6,11 @@ Which of the following activities are key components of information architecture
 What is another term used to describe the main navigation in a site map? Please answer in all lowercase.|menu
 Which of the following are key activities involved in information architecture?|Organizing information$Categorizing information$Labeling information
 What is the relevance of information architecture during the sitemap phase?|It aids in transforming content requirements into a navigable structure.
+Select all the elements that should be included when breaking down a blog website into sitemap components.|Terms of Service$Testimonials$Categories$Blog Archives$Blog Posts
+Which of the following is the most appropriate label for a website's main navigation that helps users find information about the company's history, values, and team members?|About Us
+Which element is essential for structuring content and functionality requirements into an information flow diagram?|Clear hierarchy
+Based on principles of human psychology, how many items can humans easily hold in short-term memory??|7
+What is the primary purpose of information architecture in the web design process?|To organize and structure content in a way that is easy for users to navigate
+Which of the following are important considerations when designing an effective site map?|Balancing clicking and scrolling$Ensuring clear labels
+Which of the following best describes the importance of consistent language in interfaces?|It enhances user experience by providing clarity and reducing confusion.
+Which of the following are key activities involved in information architecture?|Organizing information$Categorizing information$Labeling information

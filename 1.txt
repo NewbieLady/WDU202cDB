@@ -8,3 +8,13 @@ Which of the following is a benefit of following a predefined process for each w
 What is the term used to describe the sequential approach in user experience design? Please answer in all lowercase.|waterfall
 Select the advantages of using websites for user experience over apps.|Websites are accessible on multiple platforms without needing separate development for each.$Websites generally require less storage space on the user's device.$Websites do not need to be updated as frequently as apps.
 When analyzing competitor restaurant websites, which of the following is a key consideration for identifying potential design elements to incorporate into your own site?|User experience and navigation flow
+What is a key functional difference between a website and a mobile application?|A website is accessed through a web browser, while a mobile app is installed on a device.
+What is the primary difference between content and functionality requirements in web design?|Content requirements specify what information will be presented, while functionality requirements determine what actions users can perform.
+Which of the following elements should be included in a website plan?|Site map
+Which of the following factors is most critical in determining the potential viability of a new e-commerce website idea?|Market demand for the product or service
+What is the primary purpose of setting up a website strategy before beginning the design process?|To establish a clear set of goals and objectives for the website
+Which of the following are phases of UX design?|Sitemap$Visual mockups$Outline of scope$Wireframes$Strategy
+What is the first phase of the UX process? Please answer in all lowercase.|strategy Correct Correct! The first phase is strategy.
+Select the key differences between the waterfall and agile approaches in user experience design.|Agile requires complete documentation before development begins$Waterfall is linear and sequential
+What is one key difference between websites and apps in terms of accessibility?|Websites generally offer better cross-platform accessibility than apps.
+What is the primary focus of user experience (UX) design?|Ensuring the product is built using the latest technology

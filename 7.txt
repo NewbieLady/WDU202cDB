@@ -3,3 +3,8 @@ What is the primary purpose of CSS in web development? Please answer in all lowe
 Select all elements that should be checked for consistency when refining a mockup.|Color schemes$Typography$Iconography
 Name a programming language integral to web development that enables dynamic content. Please answer in all lowercase.|javascript
 Which web technology is essential for structuring content on the web? Please answer in all lowercase.|html
+Which language is primarily used to structure the content of a web page?|HTML
+What is the primary purpose of CSS in web development? Please answer in all lowercase.|styling web pages Incorrect Incorrect. Please review the lesson on the purpose of CSS in web development.
+Select all elements that should be checked for consistency when refining a mockup.|Typography$Iconography$Color schemes
+Name a programming language integral to web development that enables dynamic content. Please answer in all lowercase.|javascript Correct Correct! JavaScript is essential for creating dynamic web content.
+What is the primary benefit of understanding the connection between code and design in web development?|It allows for more effective communication with developers.

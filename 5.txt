@@ -8,3 +8,10 @@ What is the term used to describe the ability of a web page to adapt its layout 
 Which of the following tools are specifically made for creating wireframes? ?|Figma
 Which header navigation system is often preferred for large websites with many sections?|Mega menu
 Which of the following strategies is most effective for enhancing user engagement on a website's homepage?|Using clear and concise headlines
+Select the tools that are commonly used for effectively creating wireframes.|Sketch$Balsamiq$Figma
+Which of the following elements is essential for a website's primary navigation system?|Menu bar
+What is the term used to describe the practice of making web designs adapt to different screen sizes? Please answer in all lowercase.|responsive design Correct Correct! Responsive design ensures web designs adapt to different screen sizes.
+Select the strategies that contribute to effective navigation on a website.|Ensuring the navigation is consistent across pages$Minimizing the number of menu items$Using clear and descriptive labels for menu items
+Which of the following best describes the core principle of the Mobile First approach in web design?|Designing for smaller screens before scaling up to larger screens
+Why is it important for user interfaces to be clear and self-explanatory?|To reduce the learning curve for new users
+Which of the following are key elements to consider in wireframing a website?|Navigation systems$Wayfinding

@@ -6,3 +6,7 @@ What is the term for a basic visual guide that suggests the structure of an inte
 What is the primary tool used in this course for constructing clickable prototypes? Please answer in all lowercase.|figma
 Which of the following is an example of a dark pattern in user interfaces?|Adding hidden costs during checkout
 Identify common accessibility considerations in web design.|Enough contrast between text and background$Use of semantic HTML tags$Ensuring keyboard navigability
+Select all aspects that should be evaluated when assessing the quality of a visual mockup.|Alignment and spacing$Consistency in design elements
+Which components should be included in a portfolio presentation for a web design project?|Project overview$Clickable prototypes$User personas
+Which phase of the web design process involves creating wireframes?|Prototyping
+Which of the following audiences are commonly interested in clickable prototypes and their respective expectations?|Developers - to understand the technical feasibility and gather requirements.$The client - to ensure the design aligns with business goals.
